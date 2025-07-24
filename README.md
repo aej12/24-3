@@ -53,7 +53,7 @@
 
       // 클릭 시 구글 스프레드시트로 이동
       goBtn.onclick = function () {
-        window.location.href = "https://docs.google.com/spreadsheets/d/1ZMnoCzsS4JZzUt5gQgiAyF0AtfBK0UKn7kp37umQ0M8/edit?gid=1500292523";
+        window.location.href = "https://docs.google.com/spreadsheets/d/1ZevqzjB_XQ-ZlQdvi-ntCreUK3dXOPLF5dAgqGaTM0A/edit?gid=1500292523#gid=1500292523";
       };
     }
   </script>
